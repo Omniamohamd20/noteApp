@@ -73,7 +73,7 @@ export default class AppHomePage extends React.Component {
               <Image source={require("../img/approved.png")} resizeMode={'center'} style={{width:'100%',height:50}}/>
      <Text style={{alignSelf:'center',fontSize:18,paddingHorizontal:5,color:'#008F7A',fontWeight:'bold'}}>قائمة المهام</Text>
    </TouchableOpacity>
-   {/* <TouchableOpacity style={{  
+   <TouchableOpacity style={{  
     justifyContent:'center', 
       width: '45%',
    height:"35%",
@@ -89,9 +89,9 @@ export default class AppHomePage extends React.Component {
           }}>
             <Image source={require("../img/calendar.png")} resizeMode={'center'} style={{width:'100%',height:50}}/>
      <Text style={{alignSelf:'center',fontSize:18,paddingHorizontal:5,color:'#008F7A',fontWeight:'bold'}}>التقويم</Text>
-   </TouchableOpacity> */}
+   </TouchableOpacity> 
         
-   {/* <TouchableOpacity style={{  
+<TouchableOpacity style={{  
     justifyContent:'center', 
       width: '45%',
    height:"35%",
@@ -106,8 +106,8 @@ export default class AppHomePage extends React.Component {
           }}>
                     <Image source={require("../img/tasbih.png")} resizeMode={'center'} style={{width:'100%',height:50}}/>
      <Text style={{alignSelf:'center',fontSize:18,paddingHorizontal:10,color:'#008F7A',fontWeight:'bold'}}>السبحة</Text>
-   </TouchableOpacity> */}
-   {/* <TouchableOpacity style={{  
+   </TouchableOpacity> 
+   <TouchableOpacity style={{  
     justifyContent:'center', 
       width: '45%',
    height: "35%",
