@@ -1,5 +1,5 @@
 # noteApp
-note app allow user to add notes , manage user's time , show his calendar and other sevices .
+note app allow user to add notes , manage user's time , show his calendar and other services .
 
 💻 Built with
 
